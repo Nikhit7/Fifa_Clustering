@@ -1,0 +1,2 @@
+# Fifa_Clustering
+Fifa dataset preprocessing, analysis, unbiased clustering techniques and conclusions are drawn. The main aim of the project was to analyze the players to help managers sign them according to the many factors playing their part like club budget, skill, transfer fees and many more. There have been some steps taken to make our techniques unbiased. The code is commented at each step to make the interpretation easy. 
